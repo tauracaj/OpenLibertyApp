@@ -2,7 +2,7 @@
 ## NOTE: Sample Open Liberty App
 ## Source https://github.com/OpenLiberty/guide-docker
 ### https://github.com/OpenLiberty/guide-docker
-### https://openliberty.io/guides/docker.html
+### https://openliberty.io/guides/docker.html 
 
 
 ## Prerequisites
