@@ -3,8 +3,6 @@ kind: OpenLibertyApplication
 metadata:
   name: openliberty-agic
 spec:
-  nodeSelector:
-    kubernetes.io/os: linux
   replicas: 1
   applicationImage: ${param.login.server}/${project.artifactId}:${project.version}${param.git.number}
   pullPolicy: Always
